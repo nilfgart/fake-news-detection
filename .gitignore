@@ -1,0 +1,6 @@
+data/raw/
+data/processed/
+data/news.db
+models/
+results/
+__pycache__/
